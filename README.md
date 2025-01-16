@@ -1,6 +1,8 @@
 # Hello, I'm Muhammed sinan 👋
 
-Welcome to my GitHub profile! I'm passionate about software development, open-source, and technology. Feel free to explore my repositories and get in touch with me.
+Welcome to my GitHub profile! 
+I'm passionate about open-source,physics and new technology. 
+
 
 ## 🧑‍💻 About Me
 - 🔭 I’m currently studying B.tech in  artificial intelligence and data science  
