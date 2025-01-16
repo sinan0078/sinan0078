@@ -1,4 +1,4 @@
-# Hello, I'm Muhamme sinan 👋
+# Hello, I'm Muhammed sinan 👋
 
 Welcome to my GitHub profile! I'm passionate about software development, open-source, and technology. Feel free to explore my repositories and get in touch with me.
 
