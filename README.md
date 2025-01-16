@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @sinan0078
-- 👀 I’m interested in Learning and Teaching what i know
-- 🌱 I’m currently learning Artificial intelligence,Data science and PHYSICS.
-- 💞️ I’m looking to collaborate on MY BUSINESS IN EVERY FIELD(Investments).
-- 📫 How to reach me @muhammedct837@gmail.com.
+# Hello, I'm Muhamme sinan 👋
 
-<!---
-sinan0078/sinan0078 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about software development, open-source, and technology. Feel free to explore my repositories and get in touch with me.
+
+## 🧑‍💻 About Me
+- 🔭 I’m currently studying B.tech in  artificial intelligence and data science  
+- 🌱 I’m currently learning Python,SQL,R 
+- 👯 I’m looking to collaborate on open-source projects
+- 🤔 I’m looking for help with Deep Learning,NLP,Neural Network,Blockchain
+- 📫 How to reach me: muhammedct837@gmail.com
+
+## 🚀 Technologies & Tools
+- Languages:Python, Java, C++,R.
+- Databases: MySQL,SQL+.
+- Tools: Git,VS Code.
+
+
+
+---
+
+Thanks for visiting my profile! Feel free to connect with me.
